@@ -992,7 +992,6 @@ form label {
 
 .heart {
   position: absolute;
-  color: rgb(220, 15, 56) !important;
   top: 4em;
   left: 0;
   right: 0;
@@ -1354,7 +1353,7 @@ form label {
   z-index: 98;
 }
 #fh5co-footer .copyright {
-  padding-top: 20px;
+  padding-top: 10px;
   z-index: 99;
 }
 @media screen and (max-width: 768px) {
@@ -1386,6 +1385,7 @@ form label {
 }
 #fh5co-footer .social {
   z-index: 99;
+  margin-top: 0px;
 }
 
 .owl-carousel .owl-controls .owl-dot span {

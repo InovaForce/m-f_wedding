@@ -1049,7 +1049,6 @@ form {
 }
 .heart {
   position: absolute;
-  color: rgb(220, 15, 56) !important;
   top: 4em;
   left: 0;
   right: 0;
@@ -1420,7 +1419,7 @@ form {
       z-index: 98;
     }
   .copyright {
-    padding-top: 20px;
+    padding-top: 10px;
     z-index: 99;
     .pull-left,
     .pull-right {
@@ -1457,6 +1456,7 @@ form {
     
   .social{
     z-index: 99;
+    
   }
 }
 // Owl
