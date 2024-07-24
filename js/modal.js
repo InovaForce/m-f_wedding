@@ -1,6 +1,4 @@
 const copyrightDate = document.querySelector(".copyright-date");
-
-l
   let date = new Date();
   copyrightDate.innerText = date.getFullYear();
 
